@@ -1,6 +1,6 @@
 Dưới đây là mã nguồn Markdown hoàn chỉnh cho file `README.md`. Bạn chỉ cần copy toàn bộ nội dung trong ô mã dưới đây và dán vào file của bạn là xong:
 
-```markdown
+
 # 🏥 MedRisk: Hệ Thống Dự Đoán Khả Năng Tái Nhập Viện
 ### (Chuyên khoa: Bệnh Tiêu Hóa & Tuần Hoàn)
 **Đồ án môn học:** Học Máy Ứng Dụng | **Ngành:** Trí Tuệ Nhân Tạo
